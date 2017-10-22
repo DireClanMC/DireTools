@@ -1,0 +1,4 @@
+name: DireTools
+main: com.dire.bukkit
+version: 1.0
+commands:
