@@ -10,13 +10,11 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/paper.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/PaperSpigot-1.7.10-R0.1-SNAPSHOT-latest.jar!/" />
         </CLASSES>
-        <JAVADOC>
-          <root url="https://hub.spigotmc.org/javadocs/spigot" />
-        </JAVADOC>
+        <JAVADOC />
         <SOURCES>
-          <root url="jar://$USER_HOME$/Downloads/paper.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/PaperSpigot-1.7.10-R0.1-SNAPSHOT-latest.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
